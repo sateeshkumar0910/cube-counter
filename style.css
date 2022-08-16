@@ -1,0 +1,30 @@
+body{
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.counter{
+    border-radius: 40px;
+    padding: 200px 200px;
+    width: 600px;
+    height: 500px;
+    margin: 50px auto;
+   align-items: center;
+   background-color: rgb(154, 183, 216);
+   text-align: center;
+  /* background-image: url(dual.png);*/
+   
+}
+.input{
+    width: 100px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.btn{
+    
+    background-color: black;
+   cursor: pointer;
+   color: aliceblue;
+   border-radius: 10px;
+}
