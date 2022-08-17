@@ -6,11 +6,12 @@ body{
     border-radius: 40px;
     padding: 200px 200px;
     width: 600px;
-    height: 500px;
+    height: 100px;
     margin: 50px auto;
-   align-items: center;
+ 
    background-color: rgb(154, 183, 216);
    text-align: center;
+   text-size-adjust: 100px;
   /* background-image: url(dual.png);*/
    
 }
@@ -27,4 +28,12 @@ body{
    cursor: pointer;
    color: aliceblue;
    border-radius: 10px;
+}
+.result{
+    background-color: black;
+    color: white;
+    width: 50px;
+display: inline;
+border: solid white 3px;
+border-radius: 6px;
 }
